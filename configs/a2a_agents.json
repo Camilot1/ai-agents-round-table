@@ -1,0 +1,7 @@
+{
+  "agents": {
+    "SellsAgent": "http://localhost:7000",
+    "ProductionAgent": "http://localhost:7001",
+    "LogisticsAgent": "http://localhost:7002"
+  }
+}

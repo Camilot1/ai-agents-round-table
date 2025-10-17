@@ -1,0 +1,11 @@
+{
+  "servers": [
+    {
+      "name": "logistics",
+      "script": "scripts/mcp_servers/mcp_server_logistics.py",
+      "python": "{python}",
+      "cwd": ".",
+      "args": []
+    }
+  ]
+}

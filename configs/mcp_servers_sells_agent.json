@@ -1,0 +1,11 @@
+{
+  "servers": [
+    {
+      "name": "sells",
+      "script": "scripts/mcp_servers/mcp_server_sells.py",
+      "python": "{python}",
+      "cwd": ".",
+      "args": []
+    }
+  ]
+}

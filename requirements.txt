@@ -1,0 +1,6 @@
+aiogram>=3.4.1,<4
+huggingface_hub>=0.24.3
+llama-cpp-python>=0.3.16
+mcp>=0.3.0
+python-dotenv>=1.0.1
+python-a2a>=0.5.10

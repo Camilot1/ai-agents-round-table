@@ -1,0 +1,11 @@
+{
+  "servers": [
+    {
+      "name": "production",
+      "script": "scripts/mcp_servers/mcp_server_production.py",
+      "python": "{python}",
+      "cwd": ".",
+      "args": []
+    }
+  ]
+}
