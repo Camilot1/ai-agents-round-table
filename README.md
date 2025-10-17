@@ -34,7 +34,7 @@
 │     └─ mcp_server_random.py
 ├─ run_*.bat                       # сценарии быстрого запуска под Windows
 ├─ requirements.txt
-└─ OLD_README_AGENT.md             # текущий документ
+└─ README.md             # текущий документ
 ```
 
 ## Требования
